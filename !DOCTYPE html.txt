@@ -22,19 +22,4 @@
   <section id="projects">
     <h2>Projects</h2>
     <ul>
-      <li><strong>Urban Green Space GIS:</strong> Mapped green spaces in Mombasa using QGIS and Python.</li>
-      <li><strong>Water Leak Detection:</strong> GIS-based pipeline analysis for leak and loss detection in Kwale.</li>
-    </ul>
-  </section>
-
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: waren@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
-  </section>
-
-  <footer>
-    <p>&copy; 2025 Waren Mkalla</p>
-  </footer>
-</body>
-</html>
+      <li><strong>Urban Green Space GIS:</strong> Mapped green spac
